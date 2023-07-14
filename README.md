@@ -1,2 +1,2 @@
-# self-jenkins-project
-My Self Jenkins Prohect 
+# Jenkins Prohect
+This project is a test for learning Jenkins.
